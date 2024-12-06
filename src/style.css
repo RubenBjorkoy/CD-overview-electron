@@ -1,0 +1,168 @@
+body {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+
+.cdHolderCase {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+
+#cdHolder {
+  width: 100%;
+  text-align: left;
+  height: 100px;
+}
+
+#cdHolder li {
+  list-style: none;
+  border: 1px solid black;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 0px;
+  margin: -1px;
+  height: 18.5%;
+}
+
+.cdID {
+  font-size: 100%;
+  width: 4%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  display: inline-block;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  text-align: center;
+}
+
+.cdArtist {
+  font-size: 100%;
+  width: 36%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  display: inline-block;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.cdAlbum {
+  font-size: 100%;
+  width: 30%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  display: inline-block;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.cdYear {
+  font-size: 100%;
+  width: 10%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  display: inline-block;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.cdLocation {
+  font-size: 100%;
+  width: 10%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  display: inline-block;
+  text-align: right;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.cdPosition {
+  font-size: 100%;
+  width: 10%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  display: inline-block;
+  text-align: right;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.inputFields {
+  display: block;
+  height: 20%;
+  width: 100%;
+  border: 1px solid black;
+  overflow: auto;
+}
+
+.inputFields input[type='text'] {
+  width: 112px;
+}
+
+.inputFields input[type='number'] {
+  width: 100px;
+}
+
+#count {
+  background-color: #ddd;
+  text-align: right;
+  float: right;
+  padding: 10px 15px;
+  border-radius: 5px;
+  width: fit-content;
+}
+
+.toggleButton {
+  border: 1px solid gray;
+  background-color: black;
+  color: white;
+  transition: 0.3s;
+}
+
+.toggleButton:hover {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 0 15px;
+  border-radius: 5px;
+}
+
+form {
+  border: 1px solid black;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  display: block;
+}
+
+.grayOutCD {
+  background-color: #ccc;
+}
+
+.notGrayOutCD {
+  background-color: #fff;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ddd;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

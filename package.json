@@ -12,6 +12,7 @@
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.4",
     "@babel/register": "^7.18.9",
+    "axios": "^1.2.2",
     "electron": "^21.1.1",
     "mysql2": "^2.3.3"
   },

@@ -1,27 +1,26 @@
-/**
- * Starts the desktop application through the electron framework.
- * This file is not part of the curriculum, and does not need to be altered.
- */
-
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow, dialog } = require('electron');
 const path = require('path');
 const chokidar = require('chokidar');
 
 process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true';
 
-let mainWindow;
+let win;
 app.on('ready', () => {
-  mainWindow = new BrowserWindow({
+  win = new BrowserWindow({
     width: 800,
     height: 600,
     webPreferences: { nodeIntegration: true, contextIsolation: false, enableRemoteModule: true },
   });
 
   // Open Development Tools
-  mainWindow.openDevTools();
+  win.openDevTools();
 
-  mainWindow.loadFile('src/index.html');
+  win.loadFile('src/index.html');
 });
+
+if (process.platform === 'win32') {
+  app.setAppUserModelId('CD inventory system');
+}
 
 app.on('window-all-closed', () => {
   app.quit();
@@ -30,10 +29,20 @@ app.on('window-all-closed', () => {
 // Reload application on changes in src folder
 const watcher = chokidar.watch(path.join(__dirname, 'src'), { ignored: /^.*\.(json|txt)$/ });
 watcher.on('change', () => {
-  if (mainWindow) mainWindow.webContents.reloadIgnoringCache();
+  if (win) win.webContents.reloadIgnoringCache();
 });
 
 // To prevent crash on exit in MacOS
 app.on('will-quit', () => {
   watcher.close();
+});
+
+app.on('ready', () => {
+  /*dialog.showMessageBox({
+    type: 'info',
+    title: 'Information',
+    message: 'Hello World',
+    buttons: ['OK', 'Cancel'],
+  });*/
+  //win.webContents.executeJavascript(`win.dialog = ${JSON.stringify(dialog)}`);
 });
