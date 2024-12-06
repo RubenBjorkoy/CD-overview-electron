@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>CD storage</title>
+  </head>
+  <body>
+    <h1>CDs:</h1>
+
+    <div class="inputFields" id="inputFields">
+      <form id="searchForm" onsubmit="searchForm(evt)" class="myForm">
+        Search specific:<br />
+        <input type="text" id="searchTextArtist" placeholder="Artist (Aerosmith)" />
+        <input type="text" id="searchTextAlbum" placeholder="Album (Compton)" />
+        <input type="number" id="searchTextYear" placeholder="Year (2003)" />
+        <input type="text" id="searchTextLocation" placeholder="Location (Shelf)" />
+        <input type="text" id="searchTextPosition" placeholder="Position (x)" />
+        <input type="submit" value="Search" />
+      </form>
+
+      <form id="searchAnyForm" onsubmit="searchAnyForm(evt)" class="myForm">
+        Search Any:<br />
+        <input type="text" id="searchAny" placeholder="Anything goes" />
+        <input type="submit" value="Search" />
+      </form>
+
+      <form id="addForm" onsubmit="addForm(evt)" class="myForm">
+        Add CD
+        <br />Artist:
+        <input type="text" id="addArtist" placeholder="Artist (Dr. Dre)" /><br />Album:
+        <input type="text" id="addAlbum" placeholder="Album (Compton)" /> <br />Year:
+        <input type="number" id="addYear" placeholder="Year (2015)" /> <br />Location:
+        <input type="text" id="addLocation" placeholder="Location (Shelf)" /> <br />Position:
+        <input type="text" id="addPosition" placeholder="Position (2)" /> <br /><input
+          type="submit"
+          value="Add CD"
+        />
+      </form>
+
+      <form id="editForm" onsubmit="editForm(evt)" class="myForm">
+        Edit CD:<br />
+        <input type="number" id="editID" placeholder="ID REQUIRED" required />
+        Edit information then submit changes<br />
+        Artist:<input type="text" id="editTextArtist" placeholder="Artist (Aerosmith)" />
+        Album:<input type="text" id="editTextAlbum" placeholder="Album (Compton)" /> Year:<input
+          type="number"
+          id="editTextYear"
+          placeholder="Year (2003)"
+        />
+        Location:<input type="text" id="editTextLocation" placeholder="Location (Shelf)" />
+        Position:<input type="text" id="editTextPosition" placeholder="Position (x)" />
+        <input type="submit" value="Edit" />
+      </form>
+
+      <form id="deleteForm" onsubmit="deleteForm(evt)" class="myForm">
+        Delete by ID:<br />
+        Show ID?<input type="checkbox" checked id="showID" /> <br />
+        ID:<input type="number" id="deleteID" placeholder="ID (104)" /> <br />
+        <span id="iAmSure">I am insecure</span>
+        <input type="checkbox" id="iAmSureBox" />
+        <br />
+        <input type="submit" value="Delete CD" />
+      </form>
+    </div>
+    <br />
+    Order by:
+    <select id="sortBy">
+      <option>id</option>
+      <option selected>artist</option>
+      <option>album</option>
+      <option>year</option>
+      <option>location</option>
+      <option>position</option>
+    </select>
+    <select id="ascdesc">
+      <option selected>ascending</option>
+      <option>descending</option>
+    </select>
+    <br />
+    <div id="count"></div>
+    <br />
+    <div class="cdHolderCase">
+      <div id="cdHolder"></div>
+    </div>
+
+    <script>
+      require('@babel/register');
+      require('./index.js');
+    </script>
+  </body>
+</html>

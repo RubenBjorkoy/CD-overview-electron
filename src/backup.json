@@ -1,0 +1,1563 @@
+[
+  {
+    "id": 0,
+    "artist": "Aerosmith",
+    "album": "Nine lives",
+    "year": 1997,
+    "location": "Shelf",
+    "position": 1
+  },
+  {
+    "id": 1,
+    "artist": "Aerosmith",
+    "album": "O, Yeah! – Ultimate Aerosmith Hits",
+    "year": "2002",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 2,
+    "artist": "Air",
+    "album": "10 000hz Legend",
+    "year": "2001",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 3,
+    "artist": "Amulet",
+    "album": "Danger Danger",
+    "year": "2003",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 4,
+    "artist": "Amulet",
+    "album": "Freedom Fighters",
+    "year": "2002",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 5,
+    "artist": "Art Blakey and the Jazzmessengers",
+    "album": "Album of the year",
+    "year": 1982,
+    "location": "Shelf",
+    "position": 1
+  },
+  {
+    "id": 6,
+    "artist": "Ben Harper and the blind boys of Alabama",
+    "album": "There will be a light",
+    "year": "2004",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 7,
+    "artist": "Bigbang",
+    "album": "Frontside Rock'N'Roll",
+    "year": "2002",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 8,
+    "artist": "Bigbang",
+    "album": "Too much Yang",
+    "year": "2007",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 9,
+    "artist": "Bigbang",
+    "album": "Poetic Terrorism",
+    "year": "2005",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 10,
+    "artist": "Billie Holiday",
+    "album": "Compact Jazz",
+    "year": 1987,
+    "location": "Shelf",
+    "position": 1
+  },
+  {
+    "id": 11,
+    "artist": "Billie Holiday",
+    "album": "Lady in Satin",
+    "year": "1958",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 12,
+    "artist": "Coldplay",
+    "album": "Parachutes",
+    "year": 2001,
+    "location": "Shelf",
+    "position": 1
+  },
+  {
+    "id": 13,
+    "artist": "Creed",
+    "album": "Human Clay",
+    "year": 2000,
+    "location": "Shelf",
+    "position": 1
+  },
+  {
+    "id": 14,
+    "artist": "Cypress Hill",
+    "album": "III: Temples of Boom",
+    "year": "1995",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 15,
+    "artist": "Dave Matthews Band",
+    "album": "Crash",
+    "year": "1996",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 16,
+    "artist": "David Bowie",
+    "album": "Heathen",
+    "year": 1979,
+    "location": "Shelf",
+    "position": 2
+  },
+  {
+    "id": 17,
+    "artist": "David Bowie",
+    "album": "Bowie at the Beeb",
+    "year": 1968,
+    "location": "Shelf",
+    "position": 2
+  },
+  {
+    "id": 18,
+    "artist": "David Bowie",
+    "album": "Best of Bowie",
+    "year": "2002",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 19,
+    "artist": "Dimmu Borgir",
+    "album": "Abrahadabra",
+    "year": "2010",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 20,
+    "artist": "Dimmu Borgir",
+    "album": "Death Cult Armageddon",
+    "year": "2003",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 21,
+    "artist": "Dr. Dre",
+    "album": "Compton: A soundtrack",
+    "year": "2015",
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 22,
+    "artist": "Enya",
+    "album": "Paint the Sky With Stars: The Best of Enya",
+    "year": "1997",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 23,
+    "artist": "Foo fighters",
+    "album": "In your honor",
+    "year": 2005,
+    "location": "Shelf",
+    "position": 2
+  },
+  {
+    "id": 24,
+    "artist": "Foo fighters",
+    "album": "Greatest hits",
+    "year": 2009,
+    "location": "Shelf",
+    "position": 2
+  },
+  {
+    "id": 25,
+    "artist": "Foo fighters",
+    "album": "The Colour and the Shape",
+    "year": "1997",
+    "location": "Shelf",
+    "position": "2"
+  },
+  {
+    "id": 26,
+    "artist": "Foo fighters",
+    "album": "Foo Fighters",
+    "year": 1995,
+    "location": "Shelf",
+    "position": 2
+  },
+  {
+    "id": 27,
+    "artist": "Foo Fighters",
+    "album": "Echoes, Silence, Patience & Grace",
+    "year": "2007",
+    "location": "Shelf",
+    "position": "2"
+  },
+  {
+    "id": 28,
+    "artist": "Gary Moore",
+    "album": "Blues for Greeny",
+    "year": "1995",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 29,
+    "artist": "Gluecifer",
+    "album": "Automatic Thrill",
+    "year": "2004",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 30,
+    "artist": "Gnarles Barkley",
+    "album": "St. Elsewhere",
+    "year": 2006,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 31,
+    "artist": "Gnarles Barkley",
+    "album": "The odd Couple",
+    "year": 2008,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 32,
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "year": 2000,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 33,
+    "artist": "Gorillaz",
+    "album": "Demon Days",
+    "year": 2005,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 34,
+    "artist": "Grand Island",
+    "album": "Say no to sin",
+    "year": 2006,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 35,
+    "artist": "Green Day",
+    "album": "Warning:",
+    "year": 2000,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 36,
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "year": 2004,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 37,
+    "artist": "Hans Rotmo",
+    "album": "Vårres jul",
+    "year": "1990",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 38,
+    "artist": "Immortal",
+    "album": "Sons of northern Darkness",
+    "year": "2002",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 39,
+    "artist": "Jay-Z",
+    "album": "Unplugged",
+    "year": "2001",
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 40,
+    "artist": "Jay-Z",
+    "album": "The Black Album",
+    "year": "2003",
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 41,
+    "artist": "Jazz masters 20",
+    "album": "Introducing Jazz Masters",
+    "year": 1994,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 42,
+    "artist": "Jet Get Born",
+    "album": "Elektra",
+    "year": "2003",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 43,
+    "artist": "John Coltrane",
+    "album": "Blue Train",
+    "year": 1997,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 44,
+    "artist": "John Coltrane",
+    "album": "Blue Train",
+    "year": 1957,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 45,
+    "artist": "John Coltrane Quartet",
+    "album": "Ballads",
+    "year": 2007,
+    "location": "Shelf",
+    "position": 3
+  },
+  {
+    "id": 46,
+    "artist": "John Legend / Co: Kanye West",
+    "album": "Get Lifted",
+    "year": 2004,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 47,
+    "artist": "Johnny Cash",
+    "album": "American V: A hundred highways",
+    "year": 2006,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 48,
+    "artist": "Johnny Cash",
+    "album": "American IV: The man comes around",
+    "year": 2002,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 49,
+    "artist": "Joni Mitchell",
+    "album": "Blue",
+    "year": "1971",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 50,
+    "artist": "Kristin Asbjørnsen",
+    "album": "Wayfaring Stranger - A spiritual songbook",
+    "year": "2006",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 51,
+    "artist": "Kristin Asbjørnsen",
+    "album": "The night shines like the Day",
+    "year": "2009",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 52,
+    "artist": "Led Zeppelin",
+    "album": "Celebration Day",
+    "year": 2007,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 53,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin II",
+    "year": 1994,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 54,
+    "artist": "Led Zeppelin",
+    "album": "In through the door",
+    "year": 1979,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 55,
+    "artist": "Led Zeppelin",
+    "album": "Coda",
+    "year": 1982,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 56,
+    "artist": "Led Zeppelin",
+    "album": "Presence",
+    "year": 1976,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 57,
+    "artist": "Lee konitz, John Pål Inderberg, Erling aksdal Jr, Bjørn Alterhaug",
+    "album": "Steps towards a dream",
+    "year": "1995",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 58,
+    "artist": "Leftfield",
+    "album": "Leftism",
+    "year": "1995",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 59,
+    "artist": "LL Cool JJ",
+    "album": "G.O.A.T",
+    "year": 2000,
+    "location": "Shelf",
+    "position": 4
+  },
+  {
+    "id": 60,
+    "artist": "Massive Attack",
+    "album": "Collected",
+    "year": "2006",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 61,
+    "artist": "Michael Jackson & Jackson 5",
+    "album": "Michael Jack50n & Jackson 5",
+    "year": 2008,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 62,
+    "artist": "Mike & The mechanics",
+    "album": "Hits",
+    "year": 1996,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 63,
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "year": 1997,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 64,
+    "artist": "Miles Davis",
+    "album": "The Essential",
+    "year": 2010,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 65,
+    "artist": "Miles Davis Quintet",
+    "album": "Relaxin' with Miles",
+    "year": 1956,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 66,
+    "artist": "Mingus",
+    "album": "The Black Saint and the Sinner Lady",
+    "year": 1995,
+    "location": "Shelf",
+    "position": 5
+  },
+  { "id": 67, "artist": "Moby", "album": "18", "year": 2002, "location": "Shelf", "position": 5 },
+  {
+    "id": 68,
+    "artist": "Motorpsycho",
+    "album": "Let Them Eat Cake",
+    "year": "2000",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 69,
+    "artist": "Nas",
+    "album": "The Firm",
+    "year": "1997",
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 70,
+    "artist": "Ninja Tune ",
+    "album": "Fungkungfusion",
+    "year": "1998",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 71,
+    "artist": "Nirvana",
+    "album": "With the lights out",
+    "year": "2004",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 72,
+    "artist": "Panic! at the Disco",
+    "album": "Pretty. Odd.",
+    "year": "2008",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 73,
+    "artist": "Paul McCartney",
+    "album": "Good Evening New York City",
+    "year": "2009",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 74,
+    "artist": "Pink Floyd",
+    "album": "Ecxoes - The best of Pink Floyd",
+    "year": 2001,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 75,
+    "artist": "Pink Floyd",
+    "album": "Wish you were here",
+    "year": 1975,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 76,
+    "artist": "Pink Floyd",
+    "album": "The Wall",
+    "year": 2011,
+    "location": "Shelf",
+    "position": 5
+  },
+  {
+    "id": 77,
+    "artist": "Pink Floyd",
+    "album": "Pulse (Live)",
+    "year": 1987,
+    "location": "Shelf",
+    "position": 6
+  },
+  {
+    "id": 78,
+    "artist": "Pixies",
+    "album": "Death to the Pixies",
+    "year": "1997",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 79,
+    "artist": "Puff daddy & the Family",
+    "album": "No way out",
+    "year": "1997",
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 80,
+    "artist": "Red Hot Chili Peppers",
+    "album": "Greatest hits and videos",
+    "year": "2003",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 81,
+    "artist": "Red Hot Chili Peppers",
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 82,
+    "artist": "REM",
+    "album": "In time",
+    "year": "2003",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 83,
+    "artist": "Santana",
+    "album": "Ultimate Santana",
+    "year": "2007",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 84,
+    "artist": "Santana",
+    "album": "Guitar Heaven: The greatest Guitar classics of all time",
+    "year": "2019",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 85,
+    "artist": "Seirom",
+    "album": "ABXo58",
+    "year": "1973",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 86,
+    "artist": "Silverchair",
+    "album": "Freakshow",
+    "year": "1996",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 87,
+    "artist": "Skrillex",
+    "album": "Scary monsters and Nice Sprites",
+    "year": "2010",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 88,
+    "artist": "Skrillex",
+    "album": "Bangarang",
+    "year": "2012",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 89,
+    "artist": "Sly & the family stone",
+    "album": "Greatest Hits",
+    "year": "1970",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 90,
+    "artist": "Steely dan",
+    "album": "The best of Steely Dan then and now",
+    "year": "1993",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 91,
+    "artist": "The Beatles",
+    "album": "Love",
+    "year": 2006,
+    "location": "Shelf",
+    "position": 7
+  },
+  {
+    "id": 92,
+    "artist": "The Beatles",
+    "album": "1962-1966",
+    "year": 1966,
+    "location": "Shelf",
+    "position": 7
+  },
+  {
+    "id": 93,
+    "artist": "The Beatles",
+    "album": "1967-1970",
+    "year": 1970,
+    "location": "Shelf",
+    "position": 7
+  },
+  {
+    "id": 94,
+    "artist": "The Doors Stoned Immaculate",
+    "album": "The music of the doors",
+    "year": 2000,
+    "location": "Shelf",
+    "position": 7
+  },
+  {
+    "id": 95,
+    "artist": "The manhatten Transfer",
+    "album": "The Spirit of St. Louis",
+    "year": 1998,
+    "location": "Shelf",
+    "position": 7
+  },
+  {
+    "id": 98,
+    "artist": "Tricky",
+    "album": "Blowback",
+    "year": 2001,
+    "location": "Shelf",
+    "position": 7
+  },
+  {
+    "id": 104,
+    "artist": "Xzibit",
+    "album": "Restless",
+    "year": "2000",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 105,
+    "artist": "Yes!",
+    "album": "Fragile",
+    "year": 2003,
+    "location": "Shelf",
+    "position": 8
+  },
+  {
+    "id": 106,
+    "artist": "Xzibit",
+    "album": "Weapons of mass destruction",
+    "year": "2004",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 107,
+    "artist": "Public enemy",
+    "album": "Fear of a black planet",
+    "year": "1989",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 108,
+    "artist": "Public enemy",
+    "album": "It takes a nation of millions to hold us back",
+    "year": "1988",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 109,
+    "artist": "Public enemy",
+    "album": "Muse sick-N-Hour Mess Age",
+    "year": "1994",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 110,
+    "artist": "50 Cent",
+    "album": "Get Rich or Die Tryin'",
+    "year": "2003",
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 111,
+    "artist": "50 Cent",
+    "album": "The Massacre",
+    "year": 2005,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 112,
+    "artist": "50 Cent",
+    "album": "Best of 50 Cent",
+    "year": 2017,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 113,
+    "artist": "N.W.A",
+    "album": "Straight outta Compton",
+    "year": 1988,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 114,
+    "artist": "N.W.A",
+    "album": "The Strength of Street Knowledge; The Best of N.W.A",
+    "year": 2006,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 115,
+    "artist": "Kendrick Lamar",
+    "album": "Damn",
+    "year": 2017,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 116,
+    "artist": "Kendrick Lamar",
+    "album": "Good Kid, Maad City, a Short Film by Kendrick Lamar ",
+    "year": 2013,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 117,
+    "artist": "Kendrick Lamar",
+    "album": "Mr. Morale and the Big Steppers",
+    "year": 2022,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 118,
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A butterfly",
+    "year": 2015,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 119,
+    "artist": "Ice Cube",
+    "album": "Amerikkka's Most Wanted",
+    "year": "1990",
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 120,
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "year": "1999",
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 121,
+    "artist": "Bad meets Evil",
+    "album": "Hell: The Sequel",
+    "year": "2011",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 122,
+    "artist": "Eminem",
+    "album": "Music from and inspired by the motion picture 8 Mile",
+    "year": 2002,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 123,
+    "artist": "Eminem",
+    "album": "Curtain Call",
+    "year": 2005,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 124,
+    "artist": "Eminem",
+    "album": "Curtain Call 2",
+    "year": 2022,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 125,
+    "artist": "Eminem",
+    "album": "The Eminem Show",
+    "year": 2002,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 126,
+    "artist": "Eminem",
+    "album": "Encore",
+    "year": 2004,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 127,
+    "artist": "Eminem",
+    "album": "The Marshall Mathers LP",
+    "year": 2000,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 128,
+    "artist": "Eminem",
+    "album": "Music to be murdered by",
+    "year": 2020,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 129,
+    "artist": "Eminem",
+    "album": "Relapse",
+    "year": 2009,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 130,
+    "artist": "Eminem",
+    "album": "Revival",
+    "year": 2017,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 131,
+    "artist": "Jay-Z",
+    "album": "The Blueprint",
+    "year": "2001",
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 132,
+    "artist": "2Pac",
+    "album": "Greatest hits",
+    "year": "1998",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 133,
+    "artist": "The Notorious B.I.G",
+    "album": "Greatest hits",
+    "year": "2007",
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 134,
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "year": "2010",
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 135,
+    "artist": "Prince",
+    "album": "Chaos and Disorder",
+    "year": "1996",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 136,
+    "artist": "Run DMC",
+    "album": "Down with the King",
+    "year": "1993",
+    "location": "Shelf",
+    "position": "1"
+  },
+  {
+    "id": 137,
+    "artist": "Daniel Pemberton",
+    "album": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 138,
+    "artist": "Metallica",
+    "album": "And Justice for all",
+    "year": "1988",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 139,
+    "artist": "Metallica",
+    "album": "Vertigo",
+    "year": "1991",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 140,
+    "artist": "Guns N' Roses",
+    "album": "Greatest Hits",
+    "year": "2004",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 141,
+    "artist": "Guns N' Roses",
+    "album": "Use Your Illusion I",
+    "year": "1991",
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 142,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "year": "1971",
+    "location": "Shelf",
+    "position": "4"
+  },
+  {
+    "id": 143,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin",
+    "year": "1969",
+    "location": "Shelf",
+    "position": "4"
+  },
+  {
+    "id": 144,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin Disc 1",
+    "year": "1993",
+    "location": "Shelf",
+    "position": "4"
+  },
+  {
+    "id": 145,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin Disc 2",
+    "year": "1993",
+    "location": "Shelf",
+    "position": "4"
+  },
+  {
+    "id": 146,
+    "artist": "Foo Fighters",
+    "album": "There is nothing left to lose",
+    "year": "1999",
+    "location": "Shelf",
+    "position": "2"
+  },
+  {
+    "id": 147,
+    "artist": "Marvin Gaye",
+    "album": "Let's get it on",
+    "year": "2002",
+    "location": "Shelf",
+    "position": "3"
+  },
+  {
+    "id": 148,
+    "artist": "Guardians of the Galaxy",
+    "album": "Awesome mixtape Volume 1",
+    "year": "2014",
+    "location": "Shelf",
+    "position": "3"
+  },
+  {
+    "id": 149,
+    "artist": "Guardians of the Galaxy",
+    "album": "Awesome mixtape Volume 2",
+    "year": "2017",
+    "location": "Shelf",
+    "position": "3"
+  },
+  {
+    "id": 150,
+    "artist": "De Press",
+    "album": "Block to Block",
+    "year": 1989,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 151,
+    "artist": "Disney",
+    "album": "Cars Soundtrack",
+    "year": "2006",
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 153,
+    "artist": "Michael Jackson",
+    "album": "HIStory",
+    "year": 1995,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 154,
+    "artist": "Queen",
+    "album": "Greatest Hits",
+    "year": 1992,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 155,
+    "artist": "Lorne Balfe & Hans ZImmer",
+    "album": "Top Gun Maverick Original Soundtrack",
+    "year": "2022",
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 156,
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road",
+    "year": 1973,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 157,
+    "artist": "The Beach Boys",
+    "album": "Surfin' Safari",
+    "year": 1962,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 158,
+    "artist": "Led Zeppelin ",
+    "album": "Led Zeppelin III",
+    "year": "1970",
+    "location": "Shelf",
+    "position": "4"
+  },
+  {
+    "id": 159,
+    "artist": "Jimi Hendrix",
+    "album": "Jimi Hendrix",
+    "year": 1998,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 160,
+    "artist": "Bjørkøy",
+    "album": "The Four Tenor Brothers",
+    "year": 1996,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 161,
+    "artist": "Universal",
+    "album": "O Brother, where art thou?",
+    "year": 2000,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 162,
+    "artist": "the Beatles",
+    "album": "Rubber Soul",
+    "year": 1965,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 163,
+    "artist": "Frank Sinatra",
+    "album": "Ultimate Sinatra",
+    "year": "2015",
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 164,
+    "artist": "the Beatles",
+    "album": "Magical Mystery Tour",
+    "year": 1967,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 165,
+    "artist": "Green Day",
+    "album": "International Superhits",
+    "year": 2001,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 166,
+    "artist": "Elton John",
+    "album": "Diamonds",
+    "year": 2017,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 167,
+    "artist": "Various Artists",
+    "album": "Footloose",
+    "year": "1984",
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 168,
+    "artist": "James Brown",
+    "album": "40th Anniversary Collection",
+    "year": 1996,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 169,
+    "artist": "Parliament",
+    "album": "Funkentelechny",
+    "year": 1977,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 170,
+    "artist": "Parliament",
+    "album": "The clones of Dr Funkenstein",
+    "year": 1976,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 171,
+    "artist": "Abba",
+    "album": "ABBA Gold (40th Anniversary Limited Edition)",
+    "year": "2014",
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 172,
+    "artist": "Christmas with the stars",
+    "album": "Christmas with the stars",
+    "year": 2009,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 173,
+    "artist": "Tom Waits",
+    "album": "Closing time",
+    "year": "1973",
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 174,
+    "artist": "Red Hot Chili Peppers",
+    "album": "One Hot Minute",
+    "year": "1995",
+    "location": "Unsorted",
+    "position": "Unsorted"
+  },
+  {
+    "id": 175,
+    "artist": "Guru",
+    "album": "Jazzmatazz",
+    "year": 1993,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 176,
+    "artist": "Human",
+    "album": "Rag'N'Bone Man",
+    "year": 2017,
+    "location": "Shelf",
+    "position": "8"
+  },
+  {
+    "id": 177,
+    "artist": "Radiohead",
+    "album": "The Bends",
+    "year": 1995,
+    "location": "Shelf",
+    "position": "9"
+  },
+  {
+    "id": 178,
+    "artist": "Michael Jackson",
+    "album": "The Essential Michael Jackson",
+    "year": 2005,
+    "location": "Shelf",
+    "position": "7"
+  },
+  {
+    "id": 179,
+    "artist": "Michael Jackson",
+    "album": "Bad",
+    "year": 1987,
+    "location": "Shelf",
+    "position": "7"
+  },
+  {
+    "id": 180,
+    "artist": "The Roots",
+    "album": "The Tipping Point",
+    "year": 2004,
+    "location": "Shelf",
+    "position": "7"
+  },
+  {
+    "id": 181,
+    "artist": "The Blues Brothers",
+    "album": "Original Soundtrack Recording",
+    "year": 1980,
+    "location": "Shelf",
+    "position": "7"
+  },
+  {
+    "id": 182,
+    "artist": "E-40",
+    "album": "The Element Of Surprise",
+    "year": 1998,
+    "location": "Shelf",
+    "position": "7"
+  },
+  {
+    "id": 183,
+    "artist": "Lloyd Banks",
+    "album": "The Hunger for More",
+    "year": 2004,
+    "location": "Shelf",
+    "position": "7"
+  },
+  {
+    "id": 184,
+    "artist": "D12",
+    "album": "Devil's night",
+    "year": 2001,
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 185,
+    "artist": "Outkast",
+    "album": "Speakerboxxx & The Love Below",
+    "year": 2001,
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 186,
+    "artist": "Eminem",
+    "album": "The Slim Shady LP",
+    "year": 1999,
+    "location": "Shelf",
+    "position": "11"
+  },
+  {
+    "id": 187,
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": 1991,
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 188,
+    "artist": "Eminem",
+    "album": "Eminem presents the Re-Up",
+    "year": 2006,
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 189,
+    "artist": "Kendrick Lamar",
+    "album": "Untitled Unmastered",
+    "year": 2016,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 190,
+    "artist": "Snoop Dogg",
+    "album": "I wanna thank me",
+    "year": 2019,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 191,
+    "artist": "Snoop Dogg",
+    "album": "Doggystyle",
+    "year": 1991,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 192,
+    "artist": "N.W.A",
+    "album": "NIGGAZ4LIFE",
+    "year": 1991,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 193,
+    "artist": "50 Cent",
+    "album": "Before I self destruct",
+    "year": 2009,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 194,
+    "artist": "2Pac",
+    "album": "Resurrection",
+    "year": 2003,
+    "location": "Shelf",
+    "position": "12"
+  },
+  {
+    "id": 195,
+    "artist": "Dr. Dre",
+    "album": "The Chronic",
+    "year": 1992,
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 196,
+    "artist": "Ice Cube",
+    "album": "Greatest Hits",
+    "year": 2001,
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 197,
+    "artist": "Ice Cube",
+    "album": "The Predator",
+    "year": 1992,
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 198,
+    "artist": "The Notorious B.I.G",
+    "album": "Life After Death",
+    "year": 1997,
+    "location": "Shelf",
+    "position": "10"
+  },
+  {
+    "id": 199,
+    "artist": "Kanye West",
+    "album": "808s & Heartbreak",
+    "year": 2008,
+    "location": "Shelf",
+    "position": "5"
+  },
+  {
+    "id": 200,
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "year": 2020,
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 201,
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "year": 2016,
+    "location": "Shelf",
+    "position": "6"
+  },
+  {
+    "id": 202,
+    "artist": "John Williams",
+    "album": "Star Wars: The Empire Strikes Back",
+    "year": 2018,
+    "location": "Shelf",
+    "position": "2"
+  },
+  {
+    "id": 203,
+    "artist": "John Williams",
+    "album": "Star Wars: A New Hope",
+    "year": 2018,
+    "location": "Shelf",
+    "position": "2"
+  }
+]
