@@ -1,24 +1,5 @@
 import fs from 'fs';
-const axios = require('axios');
-
-// axios
-//   .get('https://www.theaudiodb.com/api/v1/json/523532/search.php?s=Eminem')
-//   .then((res) => {
-//     console.log(res.data.artists[0]);
-//     return axios
-//       .get(
-//         `https://www.theaudiodb.com/api/v1/json/523532/track-top10.php?s=${res.data.artists[0].strArtist}`
-//       )
-//       .then((res) => {
-//         return console.log(res.data.track[0]);
-//       })
-//       .catch((err) => {
-//         return console.log(err);
-//       });
-//   })
-//   .catch((err) => {
-//     return console.log(err);
-//   });
+import db from './query.js';
 
 let cds = [];
 let cdHolder = document.getElementById('cdHolder');
@@ -431,3 +412,14 @@ function writeFile() {
     }
   );
 }
+
+window.getAll = async function () {
+  try {
+    const data = await db.getAll();
+    console.log(JSON.stringify(data));
+    // Optionally, display the data in your HTML
+    document.getElementById('cdHolder').innerHTML = JSON.stringify(data, null, 2);
+  } catch (err) {
+    console.error('Error fetching data:', err);
+  }
+};
